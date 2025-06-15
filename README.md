@@ -53,6 +53,7 @@ pip install SpeechRecognition
 ```
 
 4. Download the Vosk model:
+> **❗ For example a Turkish model is included**
 - Create a `models` directory
 - Download the Turkish model from https://alphacephei.com/vosk/models (vosk-model-small-tr-0.3)
 - Extract it to `models/` folder as folder (root/models/vosk-model-small-tr-0.3)
