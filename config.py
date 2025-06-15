@@ -24,9 +24,9 @@ SPEECH_RECOGNITION_PAUSE_THRESHOLD = 2.0
 
 # Hotword Ayarları
 HOTWORDS = [
-    "hey jarvis", "hey asistan", "hey bilgisayar",
-    "jarvis komut ver", "komut ver", "dinle jarvis",
-    "jarvis dinle", "jarvis", "asistan", "bilgisayar",
+    "hey friday", "hey asistan", "hey bilgisayar",
+    "friday komut ver", "komut ver", "dinle friday",
+    "friday dinle", "friday", "asistan", "bilgisayar",
     "hey asistanım", "asistanım", "bilgisayarım", 
     "bilgisayarım dinle", "asistanım dinle",
     "asistan dinle"
@@ -58,11 +58,11 @@ APP_PATHS = {
 # Kapatma Komutları
 SHUTDOWN_COMMANDS = [
     "programı durdur", "programı kapat", "programı sonlandır", 
-    "kapat jarvis", "güle güle", "jarvis dinleme modundan çık",
-    "jarvis dinleme modunu kapat", "jarvis dinleme modunu durdur",
-    "jarvis kapan", "jarvis kapat", "jarvis sessiz ol",
-    "jarvis artık dinleme", "jarvis artık konuşma",
-    "jarvis kapatabilirsin", "yardımıma ihtiyacım kalmadı",
+    "kapat friday", "güle güle", "friday dinleme modundan çık",
+    "friday dinleme modunu kapat", "friday dinleme modunu durdur",
+    "friday kapan", "friday kapat", "friday sessiz ol",
+    "friday artık dinleme", "friday artık konuşma",
+    "friday kapatabilirsin", "yardımıma ihtiyacım kalmadı",
     "tamam kapat", "artık dinleme", "bitti",
     "kapatabilirsin"
 ]

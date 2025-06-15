@@ -1,11 +1,12 @@
 # Friday Voice Assistant
 
-A Turkish voice assistant built with Python that uses speech recognition, text-to-speech, and natural language processing capabilities. The assistant features a modern GUI built with CustomTkinter and system tray integration.
-You can config it for other languages.
+A Turkish voice assistant built with Python that uses speech recognition, text-to-speech, and natural language processing capabilities.
+The assistant features a modern GUI built with CustomTkinter and system tray integration.
+Based on Friday from Iron Man
 
 ## Features
 
-- Voice command recognition with hotword detection ("Hey Jarvis" and other variants)
+- Voice command recognition with hotword detection ("Hey Friday" and other variants)
 - Text-to-speech capabilities using ElevenLabs API
 - Natural language understanding using transformer models
 - Modern GUI with dark/light theme support
@@ -76,7 +77,7 @@ python main.py
    - Use the tray menu to toggle hotword detection or quit
 
 3. Voice Commands:
-   - Activate the assistant by saying "Hey Jarvis" or other configured hotwords
+   - Activate the assistant by saying "Hey Friday" or other configured hotwords
    - Wait for the confirmation sound
    - Speak your command in Turkish
 
